@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Projects\\portfolio/**)",
+      "Read(/C:\\Projects\\portfolio\\img\\portfolio/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
